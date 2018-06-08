@@ -1,3 +1,5 @@
+//A program to write in file and print what is on file
+
 #include <stdio.h>
 #include <stdlib.h>
 
